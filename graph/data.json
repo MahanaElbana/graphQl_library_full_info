@@ -1,0 +1,10 @@
+[
+    {"__comment2__": "this is another comment",
+    "model": "graphApi.category",
+    "pk": 6,
+    "fields": {
+        "cat_name": "counting",
+        "description": "in bank"
+    }
+  }
+]

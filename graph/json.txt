@@ -1,0 +1,35 @@
+[
+    {
+        "model": "graphApi.category",
+        "pk": 2,
+        "fields": {
+            "cat_name": "programming",
+            "description": "books in learning programming"
+        }
+    },
+
+    {
+        "model": "graphApi.category",
+        "pk": 3,
+        "fields": {
+            "cat_name": "religin",
+            "description": "books in learning religin"
+        }
+    },
+    { 
+        "model": "graphApi.category",
+        "pk": 4,
+        "fields": {
+            "cat_name": "science",
+            "description": "books in learning science"
+        }
+    },
+    { 
+        "model": "graphApi.category",
+        "fields": {
+            "cat_name": "languages",
+            "description": "books in learning languages"
+        }
+    }
+ 
+]
